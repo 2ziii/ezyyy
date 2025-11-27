@@ -1,3 +1,5 @@
+// ./n_queen 4 -> 1 3 0 2  2 0 3 1
+
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
