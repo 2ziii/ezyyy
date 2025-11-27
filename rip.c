@@ -1,3 +1,5 @@
+// ./rip '(()))' -> (( )) (() ) (()) 
+
 #include <stdio.h>
 
 int removals(char *str)
