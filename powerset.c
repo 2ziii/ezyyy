@@ -1,4 +1,5 @@
 // printf fprintf malloc calloc realloc free write atoi
+// ./powerset 5 1 2 3 4 0 -> 1 4  2 3  0 1 4  0 2 3
 
 
 #include <unistd.h>
